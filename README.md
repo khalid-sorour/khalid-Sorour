@@ -1,16 +1,17 @@
-## Hi there 👋
+# Khalid SOROUR
+**Master Gestion et Conservation de la Biodiversité | SIG & données environnementales**
 
-<!--
-**khalid-sorour/khalid-Sorour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je travaille sur la cartographie, l'analyse spatiale et le diagnostic de biodiversité au Maroc.
 
-Here are some ideas to get you started:
+## Compétences
+- **SIG** : ArcGIS (ArcMap, ArcGIS Enterprise), QGIS (en cours)
+- **Bases de données** : SQL, PostgreSQL/PostGIS (en cours)
+- **Analyse de données** : Excel, SPSS, Python (en cours)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- 🗺️ Cartographie thématique des habitats (QGIS)
+- 💧 Analyse spatiale : protection des cours d'eau autour des vergers (QGIS + PostGIS)
+- 🌐 SMART SIG App : WebGIS de biodiversité (prototype)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/khalid-sorour) · khalid.sorour@usmba.ac.ma
